@@ -1,3 +1,5 @@
+![1/cover.png](https://logo.mapigration.com/1/cover.png)
+
 # www.mapigration.com
 
 Backup & Replication: Best Practices
@@ -28,3 +30,9 @@ Kod makr do wykonania migracji (apiMacro) i specyfikacji (apiUnit) przed i po mi
 + apiMacro
 + apiGoal
 + apiUnit
+
+
+---
++ [edit](https://github.com/mapigration/www/edit/main/README.md)
++ [mapigration/www](https://github.com/mapigration/www)
+
