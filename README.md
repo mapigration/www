@@ -1,6 +1,11 @@
 ![1/cover.png](https://logo.mapigration.com/1/cover.png)
 
-# www.mapigration.com
+# [www.mapigration.com](https://www.mapigration.com/)
+ 
++ [docs.mapigration.com](https://docs.mapigration.com/)
++ [bash.mapigration.com](https://bash.mapigration.com/)
++ [examples.mapigration.com](https://examples.mapigration.com/)
+ 
 
 Backup & Replication: Best Practices
 
