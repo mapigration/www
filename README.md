@@ -3,7 +3,7 @@
 # [www.mapigration.com](https://www.mapigration.com/)
  
 + [docs.mapigration.com](https://docs.mapigration.com/)
-+ [bash.mapigration.com](https://bash.mapigration.com/)
++ [offer.mapigration.com](https://offer.mapigration.com/)
 + [examples.mapigration.com](https://examples.mapigration.com/)
  
 
